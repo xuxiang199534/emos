@@ -8,7 +8,7 @@ npm install --save http://npm.wxb.com/emos/-/emos-1.0.2.tgz
 ```
 
 ## Demo
-[demo](http://git.wxb.com/pages/frontend/emos/public/index.html)
+[demo](http://git.wxb.com/pages/shipnew/emos/public/index.html)
 
 ## Usage
 
