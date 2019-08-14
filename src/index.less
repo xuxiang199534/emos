@@ -1,0 +1,31 @@
+
+.emo{
+    width:300px;
+    height: 190px;
+    border-radius: 4px;
+    overflow: hidden;
+    :global{
+      .slick-dots{
+        bottom:-8px !important;
+      }
+      .slick-dots li button{
+        background: #999 !important;
+      }
+    }
+  }
+  .emoImg{
+    padding: 3px;
+    display: inline-block;
+    cursor: pointer;
+    &:hover{
+      background: #eee;
+    }
+    :global{
+      img{
+        width: 24px;
+        height: 24px;
+        margin:0;
+      }
+    }
+  }
+  
