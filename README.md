@@ -4,7 +4,7 @@
 ## Install
 
 ```bash
-npm install --save http://npm.wxb.com/emos/-/emos-1.0.2.tgz
+npm install --save @wxb/emos
 ```
 
 ## Demo
